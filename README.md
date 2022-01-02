@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @armand-brk
 - 👀 I’m interested in Blockchain, data science, AI/ML
-- 🌱 I’m currently Blockchain
+- 🌱 I’m currently learning
 - 💞️ I’m looking to collaborate on blockchain development
 - 📫 Reach me through email: armandbaraka@gmail.com
 
